@@ -75,6 +75,10 @@ picture {
   display: block;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 input,
 button,
 textarea,

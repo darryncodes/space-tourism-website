@@ -89,6 +89,10 @@ picture {
   display: block;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 // MAKE FORM ELEMENTS EASIER TO WORK WITH
 
 input,
